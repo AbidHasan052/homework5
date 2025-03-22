@@ -1,0 +1,29 @@
+.intro{
+	 
+	background-color: rgba(00, 00, 00, .5);
+	color: lavender;
+	text-align: center;
+	width: 88%;
+	outline: 1px solid black;
+    outline-offset: 10px;
+    text-decoration: overline underline;
+    text-shadow: 2px 2px;
+    
+
+}
+
+.border{
+	border: 1px solid black;
+	background-color: #96D4D4
+	
+}
+.div{
+	height:10% ;
+}
+.div1{
+	background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 50px;
+    margin: 20px;
+}
